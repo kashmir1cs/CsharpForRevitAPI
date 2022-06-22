@@ -46,4 +46,5 @@ namespace LearnTheRevitAPI
 			TaskDialog.Show( "Element Information", e.Name + Environment.NewLine + e.Id + "\n" + edgeLength);
 			
 		}
+	}
 }
